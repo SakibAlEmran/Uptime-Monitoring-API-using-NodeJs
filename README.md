@@ -26,12 +26,15 @@ mkdir .data
 cd .data
 mkdir users tokens checks dataBase
 ```
-4. Run the app: There are two environments for application: staging and production. Look the package.json file.
+4. Run the app: There are two environments for this API: staging and production. Look the package.json file.
 ```
 npm run staging
-or 
-npm run production
 ```
+5. You can use postman as a client and test all the end-points.
+
+## Credit
+I am inspired from [Sumit Saha] (https://www.youtube.com/channel/UCFM3gG5IHfogarxlKcIHCAg) for this beautiful projects.
+
 
 
 
