@@ -34,7 +34,7 @@ npm run staging
 6. To send a sms from twilio you have to collect AccountSid, Authtoken and a phone number from https://www.twilio.com
 
 ## Credit
-I am inspired from [Sumit Saha] (https://www.youtube.com/channel/UCFM3gG5IHfogarxlKcIHCAg) for this beautiful projects.
+I am inspired from Sumit Saha (https://www.youtube.com/channel/UCFM3gG5IHfogarxlKcIHCAg) for this beautiful projects.
 
 
 
