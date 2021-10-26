@@ -16,6 +16,10 @@ Please follow the below instructions to run this project in your machine:
 ```
 git clone https://github.com/SakibAlEmran/Uptime-Monitoring-API-using-NodeJs.git
 ```
+2. Go into cloned directory: 
+```
+cd Uptime-Monitoring-API-using-NodeJs
+```
 
 
 
