@@ -20,6 +20,12 @@ git clone https://github.com/SakibAlEmran/Uptime-Monitoring-API-using-NodeJs.git
 ```
 cd Uptime-Monitoring-API-using-NodeJs
 ```
+3. Create a directory for database and create all the necessary directory as shown in below. I have managed this project database in local machine file-system. 
+```
+mkdir .data
+cd .data
+mkdir users tokens checks dataBase
+```
 
 
 
