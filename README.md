@@ -30,13 +30,12 @@ mkdir users tokens checks dataBase
 ```
 npm run staging
 ```
-5. You can use postman as a client and test all the end-points.
+5. You can use postman as a client and test all the end-points with proper request.
 6. To send a sms from twilio you have to collect AccountSid, Authtoken and a phone number from https://www.twilio.com
+
+## contact
+Name: Sakib Al Emran
+email: [sakib.imran0909@gmail.com]
 
 ## Credit
 I am inspired from Sumit Saha (https://www.youtube.com/channel/UCFM3gG5IHfogarxlKcIHCAg) for this beautiful projects.
-
-
-
-
-
