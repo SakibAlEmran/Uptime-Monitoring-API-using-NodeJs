@@ -26,7 +26,12 @@ mkdir .data
 cd .data
 mkdir users tokens checks dataBase
 ```
-
+4. Run the app: There are two environments for application: staging and production. Look the package.json file.
+```
+npm run staging
+or 
+npm run production
+```
 
 
 
