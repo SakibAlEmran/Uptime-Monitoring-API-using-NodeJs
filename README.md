@@ -10,10 +10,11 @@ This API handles the request and give a reference endpoint as a response. This A
 * check Handler
 * not Founnd Hanlder 
 
-By using this API, you  can 
-1. create, 
-2. read, 
-3. update, 
+By using this API, you  can:
+1. create 
+2. read 
+3. update
 4. delete 
-a file in your filesystem, a user, a token, a checklist.
+
+-- a file in your filesystem, a user, a token, a checklist.
 
