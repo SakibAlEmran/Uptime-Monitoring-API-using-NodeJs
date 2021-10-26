@@ -11,7 +11,7 @@ This API handles the request and give a reference endpoint as a response. This A
 5.  not Founnd Handler
 
 ## How to run
-Please follow the below instructions to run this project in your machine:
+Please follow the below instructions to run this project in your machine: you should have node and npm installed in your machine.
 1. Clone this repository 
 ```
 git clone https://github.com/SakibAlEmran/Uptime-Monitoring-API-using-NodeJs.git
