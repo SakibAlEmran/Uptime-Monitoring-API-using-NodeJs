@@ -36,7 +36,7 @@ npm run staging
 ## contact
 Name: Sakib Al Emran
 
-email: [sakib.imran0909@gmail.com]
+email: sakib.imran0909@gmail.com
 
 ## Credit
 I am inspired from Sumit Saha (https://www.youtube.com/channel/UCFM3gG5IHfogarxlKcIHCAg) for this beautiful project.
