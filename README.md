@@ -4,17 +4,12 @@
 This API will lookup a user checklist of some websites. If any link changes a state up to down or down to up, the reference user will get a sms.
 
 This API handles the request and give a reference endpoint as a response. This API has 5 endpoints:
-* sample Handler
-* user Handler
-* token Handler
-* check Handler
-* not Founnd Hanlder 
+1. sample Handler: sample handler response
+2. user Handler: you can create, read, update or delete a user with proper request method.
+3. token Handler: you can create, read, update or delete a token of a user with proper request method.
+4. check Handler: you can create, read, update or delete a check list of a user with proper request method.
+5. not Founnd Hanlder
 
-By using this API, you  can:
-1. create 
-2. read 
-3. update
-4. delete 
 
--- a file in your filesystem, a user, a token, a checklist.
+
 
