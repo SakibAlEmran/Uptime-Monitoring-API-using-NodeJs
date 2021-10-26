@@ -10,6 +10,8 @@ This API handles the request and give a reference endpoint as a response. This A
 4.  check Handler: you can create, read, update or delete a check list of a user with proper request method and validation.
 5.  not Founnd Handler
 
+## How to run
+Please follow the below instructions to run this project in your machine:
 
 
 
