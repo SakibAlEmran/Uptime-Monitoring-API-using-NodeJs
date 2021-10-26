@@ -12,6 +12,10 @@ This API handles the request and give a reference endpoint as a response. This A
 
 ## How to run
 Please follow the below instructions to run this project in your machine:
+1. Clone this repository 
+```
+git clone https://github.com/SakibAlEmran/Uptime-Monitoring-API-using-NodeJs.git
+```
 
 
 
