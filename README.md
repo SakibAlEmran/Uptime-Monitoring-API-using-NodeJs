@@ -26,12 +26,16 @@ mkdir .data
 cd .data
 mkdir users tokens checks dataBase
 ```
-4. Run the app: There are two environments for this API: staging and production. Look the package.json file.
+4. install nodemon
+```
+npm i nodemon
+```
+5. Run the app: There are two environments for this API: staging and production. Look the package.json file.
 ```
 npm run staging
 ```
-5. You can use postman as a client and test all the end-points with proper request.
-6. To send a sms from twilio you have to collect AccountSid, Authtoken and a phone number from https://www.twilio.com
+6. You can use postman as a client and test all the end-points with proper request.
+7. To send a sms from twilio you have to collect AccountSid, Authtoken and a phone number from https://www.twilio.com
 
 ## contact
 Name: Sakib Al Emran
